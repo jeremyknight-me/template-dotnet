@@ -21,7 +21,7 @@ You are a Copilot prompt that converts a given section of source code and a requ
 
 - Output format: produce ONLY a single fenced code block with the language tag `mermaid` containing the mermaid diagram. Do NOT include any extra text, explanation, or commentary outside the mermaid code block. Example:
   ```mermaid
-  <mermaid diagram text>
+  %% mermaid diagram comment
   ```
 - Use orientation defaults:
   - `flowchart` -> left-to-right (`flowchart LR`) unless the user explicitly requests `TB`, `BT`, or `RL`.
