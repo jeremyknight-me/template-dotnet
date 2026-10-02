@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "conventional-branch": {
+      "source": "conventional-branch/conventional-branch",
+      "sourceType": "github",
+      "skillPath": "skills/conventional-branch/SKILL.md",
+      "computedHash": "4f4cd6e17d0902fd35df69251a28f3a0e7013d91c842c30fdf9dd547860053d5"
+    },
+    "conventional-commit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/conventional-commit/SKILL.md",
+      "computedHash": "f29c9486cede6c7b2df0cfb0a2e4aa67446552b991bcf17d1b309e903171f03d"
+    }
+  }
+}
