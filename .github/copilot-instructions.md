@@ -6,7 +6,7 @@ This is a placeholder. Update this overview accordingly.
 
 ## Target Framework, Language, and Tools
 
-- **Framework**: .NET 10.0 (`net10.0`)
+- **Framework**: .NET 11.0 (`net11.0`)
 - **Language Version**: Latest C# features enabled
 - **Nullable Reference Types**: Enabled project-wide
 - **Implicit Usings**: Enabled

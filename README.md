@@ -18,6 +18,7 @@ A template repository for dotnet applications.
 
 This repository follows conventions defined in [AGENTS.md](AGENTS.md), including:
 
+- **.NET SDK**: .NET 11.0
 - **Central Package Management**: All package versions managed in [Directory.Packages.props](Directory.Packages.props)
 - **Code Style**: 4-space indentation, file-scoped namespaces, Allman-style braces
 - **Testing**: xUnit framework with Arrange-Act-Assert pattern
