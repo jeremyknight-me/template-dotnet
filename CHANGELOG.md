@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- TBD
+- Updated the template target framework from .NET 10 to .NET 11.
 
 ### Removed
 
